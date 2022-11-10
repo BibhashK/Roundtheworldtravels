@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: RWTA
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Nov-03 00:00:00
+Version: 01.01.01
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: BibhashTravels
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: RWTA
+Archive-Type: PegaArchive
+Export-Date: 2022-Nov-10 21:06:06
+Pega-Codeset-Name: Customer
+Instance-Count: 4069
+
+Name: FileMetadata
+

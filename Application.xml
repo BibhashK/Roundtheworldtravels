@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<application name="RWTA 01.01.01" description="" >
+	<sarfile name="Roundtheworldtravels_schema.jar" order="1"/>
+	<parfile name="Roundtheworldtravels_rules.jar" order="2"/>
+</application>
